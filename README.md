@@ -1,4 +1,10 @@
 ### Hi there 👋
+Hola mi nombre es Jorge Ortiz y me dedico en el aprendizaje de Programacion como Java, Python, SQL, Diseño de Interfaces y Arquitectura de Computadores. Soy estudiante de la Escuela Politecnica Nacional y estoy cursando el 4to Semestre de Tecnologia Superior en Desarrollo de Software.
+Proyectos Realizados.
+Programa de Uber en Java
+Conexion con MongoDB y Analisis de Datos en Python
+Machine Learning en Python como Arboles de Desicion.
+
 
 <!--
 **JorgeOrtiz121/JorgeOrtiz121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
