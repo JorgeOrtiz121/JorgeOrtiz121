@@ -1,5 +1,6 @@
 ### Hi there 👋
 Hola mi nombre es Jorge Ortiz y me dedico en el aprendizaje de Programacion como Java, Python, SQL, Diseño de Interfaces y Arquitectura de Computadores. Lo que mas me fascina de la programacion o software es la seguridad informatica con los conceptos de malwares, ataques informaticos y como mitigarlos. adoro la Cyberseguridad y la programacion. Soy Tecnologo Superior en Desarrollo de Software de la Escuela Politecnica Nacional.
+**
 Proyectos Realizados.
 Programa de Uber en Java
 Conexion con MongoDB y Analisis de Datos en Python
@@ -7,7 +8,7 @@ Machine Learning en Python como Arboles de Desicion.
 Ejemplos Basicos con el uso de JavaScript y React
 Creacion de APIS con Codeigniter 4 y Laravel
 Seguridad Informatica basado en MITTRE y EGSI v2 con CISCO
-
+**
 <!--
 **JorgeOrtiz121/JorgeOrtiz121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
